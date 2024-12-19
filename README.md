@@ -1,5 +1,8 @@
 # Pokémon PC System
 
+<p align="center">
+   <img src="https://static.vecteezy.com/system/resources/previews/027/127/571/non_2x/pokemon-logo-pokemon-icon-transparent-free-png.png"> 
+
 ## 📝 Project Description
 The **Pokémon PC System** is a Java-based application integrated with a MySQL database to manage Pokémon storage. It allows users to:
 - View stored Pokémon in different storage boxes.
@@ -8,6 +11,9 @@ The **Pokémon PC System** is a Java-based application integrated with a MySQL d
 - Manage Pokémon details, including types, level, and held items.
 
 This project demonstrates database management concepts, CRUD operations, and Java programming skills.
+
+<p align="center">
+   <img src="https://i.pinimg.com/originals/16/22/c5/1622c534aaf80e65a939e24b01e58d04.gif">
 
 ---
 
@@ -31,13 +37,18 @@ This project demonstrates database management concepts, CRUD operations, and Jav
 
 ---
 
+<p align="center">
+   <img src= "https://poketouch.files.wordpress.com/2019/05/eevee_sparkles_gif.gif">
+
 ## ⚙️ Requirements
 - **Java Development Kit (JDK)**: Version 8 or later
 - **MySQL Server**: Version 5.7 or later
 - **MySQL Connector/J**: JDBC driver for Java-MySQL integration
 
 ---
-
+<p align="center">
+   <img src= "https://static.tumblr.com/127d00a19811bf5d6c989d4ce391e370/45yz63s/qt1pe0gyc/tumblr_static_tumblr_static_4zgpa2d196gwwgos0k8gok4ok_focused_v3.gif">
+   
 ## 📖 How to Run the Project
 
 ### 1️⃣ **Database Setup**
@@ -65,6 +76,9 @@ This project demonstrates database management concepts, CRUD operations, and Jav
 
    INSERT INTO boxes (name) VALUES ('Box 1'), ('Box 2'), ('Box 3');
 Verify that the tables boxes and pokemons are created.
+
+<p align="center">
+   <img src="https://i.pinimg.com/originals/9f/1d/58/9f1d582d5a8045fec25f03530d73dd24.gif">
 
 2️⃣ Application Setup
 Download and add the MySQL Connector/J library to your Java project.
