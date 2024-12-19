@@ -1,8 +1,3 @@
-
-Here is the full markdown format with the additional content included:
-
-markdown
-Copy code
 # Pokémon PC System
 
 ## 📝 Project Description
@@ -89,15 +84,11 @@ Follow the on-screen menu to view storage, deposit Pokémon, or withdraw Pokémo
 🛠️ Database Schema
 Below is the visual representation of the database schema:
 
-
-
-🎥 Video Presentation
-You can view the video presentation here (update this link with your video URL).
-
 ✨ Key Takeaways
 Demonstrates CRUD operations with a relational database.
 Showcases database integration with a Java application.
 Implements effective Pokémon management with data persistence.
+
 🤝 Acknowledgments
 Instructor: Mr. Owen Patrick F. Falculan
 Institution: Batangas State University
