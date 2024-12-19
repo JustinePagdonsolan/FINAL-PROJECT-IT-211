@@ -3,7 +3,7 @@ import java.util.*;
 
 abstract class Pokemon {
     private String name;
-    private String[] types = new String[2];  // Up to 2 types
+    private String[] types = new String[2];
     private int level;
     private String heldItem;
 
