@@ -81,9 +81,6 @@ Compile and run the program using your IDE or command line.
 3️⃣ Using the Application
 Follow the on-screen menu to view storage, deposit Pokémon, or withdraw Pokémon.
 
-🛠️ Database Schema
-Below is the visual representation of the database schema:
-
 ✨ Key Takeaways
 Demonstrates CRUD operations with a relational database.
 Showcases database integration with a Java application.
